@@ -2,4 +2,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Git is working!")
+    return HttpResponse("Git is working!!!")
