@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b4acca-2a66-42f0-868c-e011690353f7" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/templates/polls/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/polls/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="b0b4acca-2a66-42f0-868c-e011690353f7" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +31,9 @@
     "accountId": "8c0385ee-906f-4f19-9321-d1203ff79a57"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/templates/polls/detail.html" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 4
 }</component>
@@ -120,7 +117,7 @@
       <workItem from="1742492967804" duration="5975000" />
       <workItem from="1742499356179" duration="3624000" />
       <workItem from="1742513019562" duration="2382000" />
-      <workItem from="1742573607233" duration="7442000" />
+      <workItem from="1742573607233" duration="8041000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -226,7 +223,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742593077060</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="commit">
+      <option name="closed" value="true" />
+      <created>1742598909493</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1742598909493</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
