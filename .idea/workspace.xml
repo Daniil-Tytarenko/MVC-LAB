@@ -4,8 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b4acca-2a66-42f0-868c-e011690353f7" name="Changes" comment="123">
+    <list default="true" id="b0b4acca-2a66-42f0-868c-e011690353f7" name="Changes" comment="sfthhsh">
+      <change afterPath="$PROJECT_DIR$/polls/images/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/templates/admin/base_site.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/templates/polls/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/polls/templates/polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +95,7 @@
       <recent name="D:\PyCharm\Projects\Django\polls" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PyCharm\Projects\Django\polls\images" />
       <recent name="D:\PyCharm\Projects\Django\polls" />
     </key>
   </component>
@@ -139,7 +149,7 @@
       <workItem from="1742499356179" duration="3624000" />
       <workItem from="1742513019562" duration="2382000" />
       <workItem from="1742573607233" duration="8492000" />
-      <workItem from="1743116614878" duration="6386000" />
+      <workItem from="1743116614878" duration="8297000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -285,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743123230751</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="sfthhsh">
+      <option name="closed" value="true" />
+      <created>1743123894261</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1743123894261</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,6 +342,7 @@
     <MESSAGE value="Migrations are now in the polls folder" />
     <MESSAGE value="www" />
     <MESSAGE value="123" />
-    <option name="LAST_COMMIT_MESSAGE" value="123" />
+    <MESSAGE value="sfthhsh" />
+    <option name="LAST_COMMIT_MESSAGE" value="sfthhsh" />
   </component>
 </project>
