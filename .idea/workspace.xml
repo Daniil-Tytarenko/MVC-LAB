@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b0b4acca-2a66-42f0-868c-e011690353f7" name="Changes" comment="Migrations are now in the polls folder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-    </list>
+    <list default="true" id="b0b4acca-2a66-42f0-868c-e011690353f7" name="Changes" comment="www" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +121,7 @@
       <workItem from="1742499356179" duration="3624000" />
       <workItem from="1742513019562" duration="2382000" />
       <workItem from="1742573607233" duration="8492000" />
-      <workItem from="1743116614878" duration="5324000" />
+      <workItem from="1743116614878" duration="5648000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -254,7 +251,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743120494216</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="www">
+      <option name="closed" value="true" />
+      <created>1743122942636</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1743122942636</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +284,7 @@
     <MESSAGE value="commit 4" />
     <MESSAGE value="commit" />
     <MESSAGE value="Migrations are now in the polls folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Migrations are now in the polls folder" />
+    <MESSAGE value="www" />
+    <option name="LAST_COMMIT_MESSAGE" value="www" />
   </component>
 </project>
